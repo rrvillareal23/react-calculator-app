@@ -34,7 +34,7 @@ Welcome to React Calculator! This project showcases a simple calculator built us
 5. **Access the Application**:
    Open your web browser and navigate to http://localhost:3000 to access the React Calculator.
 
-##Usage
+## Usage
 
 - Input Field: Enter digits and arithmetic operations using the on-screen buttons.
 - Arithmetic Operations: Click on the respective buttons (+, -, ×, ÷) to perform arithmetic operations.
@@ -42,7 +42,7 @@ Welcome to React Calculator! This project showcases a simple calculator built us
 - Delete Digit: Click on the "DEL" button to remove the last digit entered.
 - Evaluate Expression: Click on the "=" button to compute the result of the arithmetic expression.
 
-##Contributing
+## Contributing
 
 Contributing
 Contributions to the React Calculator project are welcome and encouraged! If you'd like to contribute, please follow these steps:
